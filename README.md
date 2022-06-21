@@ -15,6 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Admin Info
+Admin Kullanıcı Maili:zxcvb12@gmail.com
+Admin Kullanıcı Şifresi:12345678
+
+
 ## Note
 Uygulamadaki Tüm veriler firestore üzerinde tutulmuştur.
 
