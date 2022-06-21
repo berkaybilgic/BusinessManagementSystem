@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Admin Info
 Admin Kullanıcı Maili:zxcvb12@gmail.com
+
 Admin Kullanıcı Şifresi:12345678
 
 
